@@ -23,7 +23,7 @@ This is my Storycast
 This is my Facebook Filter
 
 ![filter](https://github.com/fbgitbritt/images/blob/master/techstart%20filter.jpg ) 
-![Alt text](images/techstartFilter.jpg?raw=true "Optional Title")
+![Alt text](/images/techstartFilter.jpg?raw=true "Optional Title")
 
 
 ***
