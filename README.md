@@ -18,7 +18,7 @@ This is my Storycast
 
 This is my Facebook Filter
 
-![filter](/images/techstartFilter.jpg?raw=true "Optional Title")
+![filter](techstartFilter.jpg?raw=true "Optional Title")
 
 
 ***
